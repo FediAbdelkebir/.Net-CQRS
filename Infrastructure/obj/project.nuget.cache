@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uGVKSvgR+SOR3wJfmol7n3RMttH3cvE/mXtTYwQWHJxz7hMCzAyjHqJvCRQdcVPyrYKZK/JmQy5BVyEaUf9eqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdel\\OneDrive\\Bureau\\Formation\\.NET Clean Architecture\\Domain\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdel\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\abdel\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "C:\\Users\\abdel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
